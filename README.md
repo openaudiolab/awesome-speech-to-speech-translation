@@ -6,7 +6,7 @@ This repository summarizes the paper, codes, and tools for Speech-to-text Transl
 
 ## Speech-to-speech Translation
 
-- UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units. 
+- UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units.  ***ACL 2023*** [[Paper]](https://arxiv.org/abs/2212.08055)
 
 - Many-to-Many Spoken Language Translation via
 Unified Speech and Text Representation Learning with Unit-to-Unit Translation. ***Arxiv 2023.08*** [[Paper]](https://arxiv.org/abs/2308.01831) [[Demo]](https://choijeongsoo.github.io/utut/) [[Codes]](https://github.com/choijeongsoo/utut)
